@@ -3,3 +3,5 @@ const homePage = () => {
 <div>homepage</div>
   )
 }
+
+export default homePage
